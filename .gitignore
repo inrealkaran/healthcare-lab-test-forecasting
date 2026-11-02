@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.xlsx
+*.xls
+
+# Local results
+results/
+charts/
+
+# Environment
+.env
+venv/
+.venv/
